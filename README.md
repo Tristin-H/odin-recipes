@@ -1,1 +1,1 @@
-# odin-recipes
+This project is for posting a recipe to hopefully showcase my very new and shitty skillset
